@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Tamia Naeem — terminal header" width="100%" />
+  <img src="./header.svg" alt="Tamia Naeem — terminal header" width="100%" />
 </p>
 
 <h3 align="left"><samp>&gt; GITHUB_STATS</samp></h3>
