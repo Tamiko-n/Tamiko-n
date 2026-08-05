@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=tamiko-n&hide_border=false&border=39d353&stroke=39d353&ring=7dffb0&fire=7dffb0&currStreakLabel=39d353&sideLabels=9ece9e&dates=4a9a4a&background=0d1117" alt="streak" />
-</p>
+<img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=tamiko-n&hide_border=false&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=39d353&text=00FF41&background=0d1117" alt="streak" /></p>
 
 <!-- =====================================================================
   OPTIONAL: overall-stats + top-languages cards.
