@@ -5,15 +5,31 @@
 <h3 align="left"><samp>&gt; GITHUB_STATS</samp></h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tamiko-n&show_icons=true&count_private=true&border_color=39d353&title_color=39d353&icon_color=7dffb0&text_color=9ece9e&bg_color=0d1117" alt="stats" />
-  <!-- SWAP DOMAIN (self-host to stop rate-limit breakage): line above -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tamiko-n&hide_border=false&border=39d353&stroke=39d353&ring=7dffb0&fire=7dffb0&currStreakLabel=39d353&sideLabels=9ece9e&dates=4a9a4a&background=0d1117" alt="streak" />
+  <img src="https://img.shields.io/github/followers/tamiko-n?style=for-the-badge&logo=github&logoColor=39d353&labelColor=0d1117&color=39d353" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=tamiko-n&style=for-the-badge&color=39d353&label=PROFILE+VIEWS" alt="views" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamiko-n&layout=compact&langs_count=8&border_color=39d353&title_color=39d353&text_color=9ece9e&bg_color=0d1117" alt="langs" />
-  <!-- SWAP DOMAIN: line above -->
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=tamiko-n&hide_border=false&border=39d353&stroke=39d353&ring=7dffb0&fire=7dffb0&currStreakLabel=39d353&sideLabels=9ece9e&dates=4a9a4a&background=0d1117" alt="streak" />
 </p>
+
+<!-- =====================================================================
+  OPTIONAL: overall-stats + top-languages cards.
+  These use github-readme-stats. Its PUBLIC instance
+  (github-readme-stats.vercel.app) is rate-limited and often shows a
+  BROKEN image, which is why they are turned OFF here.
+
+  To turn them ON reliably:
+   1. Fork  github.com/anuraghazra/github-readme-stats
+   2. Import your fork at vercel.com -> Deploy (free, ~2 min)
+   3. Replace  YOUR-INSTANCE.vercel.app  below with the domain Vercel gives you
+   4. Delete this comment's opening and closing lines to un-hide the block
+======================================================================
+<p align="center">
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=tamiko-n&show_icons=true&count_private=true&border_color=39d353&title_color=39d353&icon_color=7dffb0&text_color=9ece9e&bg_color=0d1117" alt="stats" />
+  <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs?username=tamiko-n&layout=compact&langs_count=8&border_color=39d353&title_color=39d353&text_color=9ece9e&bg_color=0d1117" alt="langs" />
+</p>
+====================================================================== -->
 
 <h3 align="left"><samp>&gt; TECH_STACK</samp></h3>
 
